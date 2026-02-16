@@ -25,4 +25,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SohailAsgharWorkOfficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SohailAsgharWorkOfficial&show_icons=true&theme=tokyonight&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=SohailAsgharWorkOfficial&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SohailAsgharWorkOfficial&theme=tokyo-night)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAsgharWorkOfficial&layout=compact&theme=tokyonight)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
