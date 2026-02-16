@@ -11,6 +11,11 @@
 
 ![Streak](https://streak-stats.demolab.com?user=SohailAsgharWorkOfficial&theme=default&hide_border=false)
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SohailAsgharWorkOfficial&theme=github-light)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
