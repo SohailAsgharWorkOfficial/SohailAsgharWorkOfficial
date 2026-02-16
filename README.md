@@ -35,7 +35,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAsgharWorkOfficial&layout=compact&theme=tokyonight)
 
-![GitHub Contribution Grid] (https://ghchart.rshah.org/58a6ff/SohailAsgharWorkOfficial)
+![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/SohailAsgharWorkOfficial)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
