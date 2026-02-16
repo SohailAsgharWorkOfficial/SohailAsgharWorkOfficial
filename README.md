@@ -11,13 +11,17 @@
 
 ![Streak](https://streak-stats.demolab.com?user=SohailAsgharWorkOfficial&theme=tokyonight)
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SohailAsgharWorkOfficial&theme=tokyo-night)
 
 ## 🟩 Contribution Calendar
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/SohailAsgharWorkOfficial)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SohailAsgharWorkOfficial&theme=tokyo-night)
 
 
 
