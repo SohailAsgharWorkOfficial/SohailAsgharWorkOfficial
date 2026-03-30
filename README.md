@@ -18,3 +18,7 @@
 ## 🟩 Contribution Calendar
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/SohailAsgharWorkOfficial)
+
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=SohailAsgharWorkOfficial)
