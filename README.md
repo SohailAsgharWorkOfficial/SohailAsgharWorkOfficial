@@ -1,3 +1,5 @@
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSOHAILASGHARWORKOFFICIAL&style=flat-square)](https://rankistan.dev)
+
 # 💫 About Me:
 🛠 I’m currently working on<br>Building scalable web applications using React.js, Node.js, and MongoDB, with a focus on clean UI, robust backend APIs, and optimized performance.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, SaaS platforms, and innovative web apps that solve real-world problems.<br><br>🙌 I’m looking for help with<br>Expanding my expertise in cloud deployments (AWS, Docker, Kubernetes) and integrating advanced AI features into web applications.<br><br>🌱 I’m currently learning<br>Next.js, GraphQL, and advanced system architecture for large-scale applications.<br><br>💬 Ask me about<br>Full-stack development, React.js best practices, API integrations, and performance optimization.<br><br>⚡ Fun fact<br>I can turn coffee into clean, bug-free code… most of the time! ☕💻
 
