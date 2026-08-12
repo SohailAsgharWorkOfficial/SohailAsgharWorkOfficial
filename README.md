@@ -1,26 +1,120 @@
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FSOHAILASGHARWORKOFFICIAL&style=flat-square)](https://rankistan.dev)
+<div align="center">
 
-# 💫 About Me:
-🛠 I’m currently working on<br>Building scalable web applications using React.js, Node.js, and MongoDB, with a focus on clean UI, robust backend APIs, and optimized performance.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, SaaS platforms, and innovative web apps that solve real-world problems.<br><br>🙌 I’m looking for help with<br>Expanding my expertise in cloud deployments (AWS, Docker, Kubernetes) and integrating advanced AI features into web applications.<br><br>🌱 I’m currently learning<br>Next.js, GraphQL, and advanced system architecture for large-scale applications.<br><br>💬 Ask me about<br>Full-stack development, React.js best practices, API integrations, and performance optimization.<br><br>⚡ Fun fact<br>I can turn coffee into clean, bug-free code… most of the time! ☕💻
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=1" alt="Sohail Asghar — animated developer banner" width="100%">
+</picture>
 
+<br>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sohailasghar24) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohailasghar1120) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sohailasghar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohail-asghar-4068a0247) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sohailasghar.workofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohailasghar.workofficial@gmail.com) 
+<img src="./lanyard.svg?v=1" alt="Animated developer ID lanyard" width="360">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
+<br>
 
-![Streak](https://streak-stats.demolab.com?user=SohailAsgharWorkOfficial&theme=tokyonight)
+<a href="https://sohailasghar.site"><img src="https://img.shields.io/badge/Portfolio-sohailasghar.site-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a><a href="https://github.com/SohailAsghar236"><img src="https://img.shields.io/badge/GitHub-SohailAsghar236-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="mailto:sohailasghar236@gmail.com"><img src="https://img.shields.io/badge/Email-sohailasghar236%40gmail.com-8a3ffc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://www.linkedin.com/in/sohail-asghar-b4b7a2134/"><img src="https://img.shields.io/badge/LinkedIn-Sohail%20Asghar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## 📈 Contribution Graph
+<br><br><img src="https://komarev.com/ghpvc/?username=SohailAsghar236&label=PROFILE+VIEWS&color=ff4fa3&style=for-the-badge" alt="Profile views">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SohailAsgharWorkOfficial&theme=tokyo-night)
+</div>
 
-## 🟩 Contribution Calendar
+👨‍💻 About Me
 
-<p align="left">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+Sohail Asghar
+Full Stack Developer • Senior Software Developer • Founder @ Digital Experts
+
+I build scalable web experiences, turn ideas into products,
+and enjoy the loop: learn → code → ship → improve.
+
+Based in Pakistan.
+Website: https://sohailasghar.site
+GitHub:  @SohailAsghar236
+Email:   sohailasghar236@gmail.com
+
+🧰 Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,angular,reactnative,php,laravel,mysql,mongodb,aws,wordpress,shopify,git,github,graphql&perline=9" alt="Tech stack"></p>
+
+📊 Local Profile Cards
+
+<div align="center">
+<img src="./stats.svg?v=1" width="49%" alt="Local GitHub statistics card">
+<img src="./langs.svg?v=1" width="49%" alt="Local language and stack card">
+<br>
+<img src="./trophies.svg?v=1" width="80%" alt="Local achievements card">
+</div>
+
+These cards are fully local SVGs, so they do not depend on rate-limited GitHub stats-card services. The verified GitHub profile snapshot shows 1 public repository, 2 stars, 6 followers, and 3× YOLO achievements.
+
+🚀 Selected Projects
+
+Project
+
+What I built
+
+Focus
+
+Rungdo
+
+Online paint e-commerce platform
+
+E-commerce / Web
+
+Glamur Paints
+
+Paint products & services platform
+
+Business / Web
+
+Literary Publisher
+
+Online book publishing platform
+
+Publishing / Web
+
+United Ummah
+
+Islamic community & digital platform
+
+Community / Web
+
+Replica Copy Industries
+
+Printing & document services platform
+
+Business / Web
+
+UXTRINSIC
+
+Team management & workflow automation platform
+
+SaaS / Automation
+
+Explore my portfolio →
+
+📈 Contribution Activity
+
+<p align="center"><a href="https://github.com/SohailAsghar236"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailAsghar236&bg_color=09050f&color=fff4fb&line=ff4fa3&point=8a3ffc&area=true&area_color=3a123f&hide_border=true&custom_title=Sohail%20Asghar%20—%20Contribution%20Activity" alt="GitHub contribution activity graph"></a></p>
+
+🐍 Contribution Snake
+
+<p align="center"><img src="https://raw.githubusercontent.com/SohailAsghar236/SohailAsghar236/output/github-snake.svg?v=1" alt="GitHub contribution snake animation" width="100%"></p>
+
+The snake is generated daily by .github/workflows/github-snake.yml and published to the output branch.
+
+🤝 Connect
+
+<p align="center">
+<a href="https://sohailasghar.site"><img src="https://img.shields.io/badge/Website-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://github.com/SohailAsghar236"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/sohail-asghar-b4b7a2134/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sohailasghar236@gmail.com"><img src="https://img.shields.io/badge/Email-8a3ffc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<div align="center">
+
+Code. Coffee. Repeat. ☕💻
+
+<sub>Built with SVG, SMIL, CSS animations, and a little bit of caffeine.</sub>
+
+</div>
