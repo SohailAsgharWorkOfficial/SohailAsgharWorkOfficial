@@ -95,9 +95,20 @@ GitHub's public activity page also shows recent contributions to `norenautomotiv
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOHAILASGHARWORKOFFICIAL/SOHAILASGHARWORKOFFICIAL/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOHAILASGHARWORKOFFICIAL/SOHAILASGHARWORKOFFICIAL/output/github-contribution-grid-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/SOHAILASGHARWORKOFFICIAL/SOHAILASGHARWORKOFFICIAL/output/github-contribution-grid-snake.svg?v=1" alt="GitHub contribution snake">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SohailAsgharWorkOfficial/SohailAsgharWorkOfficial/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SohailAsgharWorkOfficial/SohailAsgharWorkOfficial/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/SohailAsgharWorkOfficial/SohailAsgharWorkOfficial/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
