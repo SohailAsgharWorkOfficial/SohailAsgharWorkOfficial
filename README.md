@@ -88,7 +88,7 @@ Fun rule: Finish what i Start.
 | [data-lake](https://github.com/SOHAILASGHARWORKOFFICIAL/data-lake) | Data-oriented development project | TypeScript / Data |
 | [3dportfolio](https://github.com/SOHAILASGHARWORKOFFICIAL/3dportfolio) | Interactive portfolio experience | 3D / Frontend |
 
-GitHub's public activity page also shows recent contributions to `norenautomotive`, `3dportfolio`, and this profile repository. citeturn4view0
+GitHub's public activity page also shows recent contributions to `norenautomotive`, `3dportfolio`, and this profile repository. 
 
 ## 🐍 Contribution Snake
 
