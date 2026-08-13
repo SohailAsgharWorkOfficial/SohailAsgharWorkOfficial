@@ -63,7 +63,7 @@ Fun rule: Finish what i Start.
 <br/>
 <img src="./langs.svg?v=1" alt="Animated language focus bars" width="760">
 <br/>
-<img src="./trophies.svg?v=1" alt="Animated local achievement cards" width="760">
+<!-- <img src="./trophies.svg?v=1" alt="Animated local achievement cards" width="760"> -->
 
 </div>
 
