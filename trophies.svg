@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420"><defs><linearGradient id="g"><stop stop-color="#ff4fa3"/><stop offset="1" stop-color="#8a3ffc"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style><![CDATA[@keyframes pop{0%{opacity:0;transform:scale(.65)}70%{opacity:1;transform:scale(1.08)}100%{opacity:1;transform:scale(1)}}@keyframes sweep{0%{transform:translateX(-300px);opacity:0}20%{opacity:.7}55%{opacity:.7}100%{transform:translateX(1000px);opacity:0}}.cell{animation:pop .7s cubic-bezier(.2,.8,.2,1) both}.shine{animation:sweep 4.2s 1.8s linear infinite}.sans{font-family:Inter,Arial,sans-serif}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}]]></style></defs><rect width="900" height="420" rx="30" fill="#09050f" stroke="#ff4fa3" stroke-opacity=".28"/><text x="44" y="54" class="sans" font-size="14" font-weight="800" letter-spacing="3" fill="#ff4fa3">ACHIEVEMENTS</text><g class="cell" style="animation-delay:.15s"><rect x="50" y="92" width="250" height="260" rx="24" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".35"/><text x="175" y="145" text-anchor="middle" font-size="58">🏆</text><text x="175" y="195" text-anchor="middle" class="sans" font-size="24" font-weight="900" fill="#fff">YOLO</text><text x="175" y="224" text-anchor="middle" class="mono" font-size="14" fill="#c9a8c8">ACHIEVEMENT</text><circle cx="175" cy="282" r="38" fill="none" stroke="url(#g)" stroke-width="9" filter="url(#glow)"/><text x="175" y="291" text-anchor="middle" class="sans" font-size="22" font-weight="900" fill="#ff4fa3">×3</text></g><g class="cell" style="animation-delay:.35s"><rect x="325" y="92" width="250" height="260" rx="24" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".35"/><text x="450" y="145" text-anchor="middle" font-size="58">💻</text><text x="450" y="195" text-anchor="middle" class="sans" font-size="24" font-weight="900" fill="#fff">BUILDER</text><text x="450" y="224" text-anchor="middle" class="mono" font-size="14" fill="#c9a8c8">PROFILE MODE</text><text x="450" y="294" text-anchor="middle" class="mono" font-size="18" fill="#ff4fa3">SHIP • LEARN • REPEAT</text></g><g class="cell" style="animation-delay:.55s"><rect x="600" y="92" width="250" height="260" rx="24" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".35"/><text x="725" y="145" text-anchor="middle" font-size="58">🚀</text><text x="725" y="195" text-anchor="middle" class="sans" font-size="24" font-weight="900" fill="#fff">GROW</text><text x="725" y="224" text-anchor="middle" class="mono" font-size="14" fill="#c9a8c8">MINDSET</text><text x="725" y="294" text-anchor="middle" class="mono" font-size="18" fill="#ff4fa3">CODE • COFFEE • REPEAT</text></g><rect class="shine" x="-250" y="70" width="120" height="300" fill="url(#g)" opacity=".2" transform="skewX(-18)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="Animated developer trophy cards">
+<style>
+svg{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+.card{fill:#07162a;stroke:#1d426a;stroke-width:2}
+.cell{fill:#102b4d;stroke:#24547f}
+.trophy{opacity:0;transform:scale(.4);transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes pop{to{opacity:1;transform:scale(1)}}
+.shine{animation:shine 4s ease-in-out 1.5s infinite}
+@keyframes shine{0%,40%{transform:translateX(-500px);opacity:0}55%{opacity:.55}75%,100%{transform:translateX(500px);opacity:0}}
+.title{fill:#eaf5ff;font-weight:900;font-size:16px}
+.small{fill:#8fa8c4;font-size:12px;font-weight:700}
+.rank{fill:#67e8f9;font-weight:900;font-size:13px}
+</style>
+<defs><linearGradient id="shine" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="clip"><rect x="6" y="6" width="748" height="348" rx="26"/></clipPath></defs>
+<rect x="6" y="6" width="748" height="348" rx="26" class="card"/>
+<text x="34" y="42" fill="#67e8f9" font-size="13" font-weight="900" letter-spacing="2">ACHIEVEMENTS / TROPHIES</text>
+<g class="trophy" style="animation-delay:.2s" transform="translate(34 72)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#01</text><text x="20" y="62" class="title">BUILDER</text><text x="20" y="84" class="small">68 public repositories</text><text x="182" y="68" text-anchor="middle" font-size="34">★</text>
+</g>
+<g class="trophy" style="animation-delay:.45s" transform="translate(273 72)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#02</text><text x="20" y="62" class="title">SHIPPER</text><text x="20" y="84" class="small">2,189 contributions</text><text x="182" y="68" text-anchor="middle" font-size="34">⚡</text>
+</g>
+<g class="trophy" style="animation-delay:.7s" transform="translate(512 72)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#03</text><text x="20" y="62" class="title">CONNECTOR</text><text x="20" y="84" class="small">19 followers</text><text x="182" y="68" text-anchor="middle" font-size="34">↗</text>
+</g>
+<g class="trophy" style="animation-delay:.95s" transform="translate(34 205)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#04</text><text x="20" y="62" class="title">STARGAZER</text><text x="20" y="84" class="small">32 stars received</text><text x="182" y="68" text-anchor="middle" font-size="34">★</text>
+</g>
+<g class="trophy" style="animation-delay:1.2s" transform="translate(273 205)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#05</text><text x="20" y="62" class="title">FULL STACK</text><text x="20" y="84" class="small">Web • API • Cloud</text><text x="182" y="68" text-anchor="middle" font-size="34">DEV</text>
+</g>
+<g class="trophy" style="animation-delay:1.45s" transform="translate(512 205)">
+<rect width="214" height="110" rx="18" class="cell"/><text x="20" y="34" class="rank">#06</text><text x="20" y="62" class="title">FINISHER</text><text x="20" y="84" class="small">Finish what i Start</text><text x="182" y="68" text-anchor="middle" font-size="34">✓</text>
+</g>
+<g clip-path="url(#clip)" class="shine"><rect x="-150" y="0" width="120" height="360" fill="url(#shine)" transform="skewX(-18)"/></g>
+</svg>

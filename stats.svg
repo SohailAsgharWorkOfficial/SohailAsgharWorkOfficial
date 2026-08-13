@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420"><defs><linearGradient id="g"><stop stop-color="#ff4fa3"/><stop offset="1" stop-color="#8a3ffc"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style><![CDATA[@keyframes ring{from{stroke-dashoffset:502}to{stroke-dashoffset:145}}@keyframes row{from{opacity:0;transform:translateX(-25px)}to{opacity:1;transform:translateX(0)}}.ring{animation:ring 1.8s .4s ease-out forwards}.row{animation:row .7s ease-out both}.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.sans{font-family:Inter,Arial,sans-serif}]]></style></defs><rect width="900" height="420" rx="30" fill="#09050f" stroke="#ff4fa3" stroke-opacity=".28"/><text x="44" y="54" class="sans" font-size="14" font-weight="800" letter-spacing="3" fill="#ff4fa3">GITHUB SNAPSHOT</text><circle cx="205" cy="218" r="80" fill="none" stroke="#281531" stroke-width="16"/><circle cx="205" cy="218" r="80" fill="none" stroke="url(#g)" stroke-width="16" stroke-linecap="round" stroke-dasharray="502" stroke-dashoffset="502" class="ring" transform="rotate(-90 205 218)" filter="url(#glow)"/><text x="205" y="207" text-anchor="middle" class="sans" font-size="34" font-weight="900" fill="#fff">DEV</text><text x="205" y="235" text-anchor="middle" class="mono" font-size="14" fill="#c9a8c8">PROFILE</text><g class="mono" font-size="16" fill="#fff"><g class="row" style="animation-delay:.7s"><rect x="340" y="108" width="500" height="52" rx="15" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".18"/><text x="364" y="141" fill="#c9a8c8">PUBLIC REPOS</text><text x="804" y="141" text-anchor="end" font-size="22">01</text></g><g class="row" style="animation-delay:.95s"><rect x="340" y="175" width="500" height="52" rx="15" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".18"/><text x="364" y="208" fill="#c9a8c8">STARS</text><text x="804" y="208" text-anchor="end" font-size="22">02</text></g><g class="row" style="animation-delay:1.2s"><rect x="340" y="242" width="500" height="52" rx="15" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".18"/><text x="364" y="275" fill="#c9a8c8">FOLLOWERS</text><text x="804" y="275" text-anchor="end" font-size="22">06</text></g><g class="row" style="animation-delay:1.45s"><rect x="340" y="309" width="500" height="52" rx="15" fill="#13091b" stroke="#ff4fa3" stroke-opacity=".18"/><text x="364" y="342" fill="#c9a8c8">ACHIEVEMENTS</text><text x="804" y="342" text-anchor="end" font-size="22" fill="#ff4fa3">3× YOLO</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="Local animated GitHub statistics">
+<style>
+svg{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;background:transparent}
+.card{fill:#07162a;stroke:#1d426a;stroke-width:2}
+.ring{fill:none;stroke:#163a61;stroke-width:16}
+.arc{fill:none;stroke:#38bdf8;stroke-width:16;stroke-linecap:round;stroke-dasharray:0 999;animation:ring 2s ease-out .4s forwards}
+@keyframes ring{to{stroke-dasharray:530 999}}
+.row{opacity:0;transform:translateX(-30px);animation:row .7s ease forwards}
+@keyframes row{to{opacity:1;transform:translateX(0)}}
+.value{fill:#eaf5ff;font-weight:900;font-size:22px}
+.label{fill:#8fa8c4;font-size:13px;font-weight:700}
+.badge{fill:#102b4d;stroke:#24547f}
+</style>
+<rect x="6" y="6" width="748" height="348" rx="26" class="card"/>
+<text x="34" y="42" fill="#67e8f9" font-size="13" font-weight="900" letter-spacing="2">LOCAL PROFILE STATS</text>
+<g transform="translate(155 188)">
+<circle r="104" class="ring"/>
+<circle r="104" class="arc" transform="rotate(-90)"/>
+<text y="-8" text-anchor="middle" class="value">A+</text>
+<text y="18" text-anchor="middle" class="label">BUILD RANK</text>
+<text y="45" text-anchor="middle" fill="#38bdf8" font-size="11" font-weight="800">SHIP • LEARN • REPEAT</text>
+</g>
+<g transform="translate(315 76)">
+<g class="row" style="animation-delay:.55s"><rect width="390" height="48" rx="12" class="badge"/><text x="18" y="21" class="label">PUBLIC REPOSITORIES</text><text x="370" y="32" text-anchor="end" class="value">68</text></g>
+<g class="row" style="animation-delay:.75s" transform="translate(0 58)"><rect width="390" height="48" rx="12" class="badge"/><text x="18" y="21" class="label">FOLLOWERS</text><text x="370" y="32" text-anchor="end" class="value">19</text></g>
+<g class="row" style="animation-delay:.95s" transform="translate(0 116)"><rect width="390" height="48" rx="12" class="badge"/><text x="18" y="21" class="label">FOLLOWING</text><text x="370" y="32" text-anchor="end" class="value">20</text></g>
+<g class="row" style="animation-delay:1.15s" transform="translate(0 174)"><rect width="390" height="48" rx="12" class="badge"/><text x="18" y="21" class="label">STARS RECEIVED</text><text x="370" y="32" text-anchor="end" class="value">32</text></g>
+</g>
+</svg>
