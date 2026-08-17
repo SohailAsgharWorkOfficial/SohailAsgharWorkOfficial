@@ -43,7 +43,7 @@ and enjoy the loop: learn → code → ship → improve.
 Fun rule: Finish what i Start.
 ```
 
-> **Verified GitHub snapshot:** the public profile currently identifies this account as **Sohail Asghar / SohailAsgharWorkOfficial**, lists **Senior Software Developer | Full Stack Engineer | Building Scalable Web & AI Solutions**, shows **68 public repositories, 19 followers, 20 following, and 32 stars**, and links to `sohailasghar.site`. citeturn1view0
+> **Verified GitHub snapshot:** the public profile currently identifies this account as **Sohail Asghar / SohailAsgharWorkOfficial**, lists **Senior Software Developer | Full Stack Engineer | Building Scalable Web & AI Solutions**, shows **68 public repositories, 19 followers, 20 following, and 32 stars**, and links to `sohailasghar.site`. 
 
 ## 🧰 Tech Stack
 
@@ -75,7 +75,7 @@ Fun rule: Finish what i Start.
 <img src="./activity.svg?v=1" alt="Local contribution activity graph" width="100%">
 </div>
 
-**2,189 contributions in the last year** are currently shown by GitHub's contribution page. citeturn4view0
+**2,189 contributions in the last year** are currently shown by GitHub's contribution page. 
 
 ## 🚀 Selected Projects
 
